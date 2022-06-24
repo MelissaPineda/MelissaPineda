@@ -1,8 +1,7 @@
-- Hi, I’m @MelissaPineda
+- Hi, I’m @MelissaPineda💞️
 - I’m interested in 🌱🌱
-- I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I’m currently doing my PhD in plant systematics 🌱🌱🌱
+- 💞️ 
 
 <!---
 MelissaPineda/MelissaPineda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
